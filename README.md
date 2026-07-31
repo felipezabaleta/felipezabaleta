@@ -7,7 +7,7 @@
 
 Soy **QA Engineer Jr | Garantizo calidad en productos digitales** con experiencia en **pruebas manuales y automatizadas**, enfocado en garantizar la calidad del software a través de metodologías ágiles. Me especializo en **pruebas de API, pruebas UI y debugging**, aplicando herramientas modernas y buenas prácticas en cada proyecto.
 Cuento con 8 meses de experiencia en la automatización de pruebas mediante el uso de Selenium WebDriver y Python, además de la validación de endpoints de API con Rest Assured y Postman, ejecutando suites de más de 70 casos de prueba. 
-Para la gestión reporte de errores, utilizo Jira + Xray como herramientas de Test Management. Mi compromiso es entregar calidad en cada iteración, documentando hallazgos de la mejor manera, con mi experiencia como estudiante de ingenieria industrial he podido desarrollar habilidades de comunicacion, comunicacion y trabajo en equipo y la precisión técnica necesaria para facilitar la acción inmediata del equipo de desarrollo.
+Para la gestión reporte de errores, utilizo Jira + Xray como herramientas de Test Management. Mi compromiso es entregar calidad en cada iteración, documentando hallazgos de la mejor manera, con mi experiencia como estudiante de ingenieria industrial he podido desarrollar habilidades de comunicacion,trabajo en equipo y la precisión técnica necesaria para facilitar la acción inmediata del equipo de desarrollo.
 
 
 ## 🚀 Sobre mí

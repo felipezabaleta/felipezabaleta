@@ -22,7 +22,8 @@ www.linkedin.com/in/carlos-zabaleta
 ## 🛠️ Habilidades y herramientas
 
 - **Pruebas de Software:** Pruebas manuales, UI Testing, pruebas de regresión, debugging.
-- **Automatización:** Python, Pytest.
+- **Automatización:** <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/71d5502e-dbb2-4e5d-a7df-0ec6c088b8c6" />
+, Pytest.
 - **API Testing:** Postman, JSON.
 - **Herramientas:** JIRA, DevTools, GitHub, Git, Bash, SQL.
 - **Metodologías:** Agile, análisis y documentación de pruebas.

@@ -23,9 +23,13 @@ www.linkedin.com/in/carlos-zabaleta
 
 - **Pruebas de Software:** Pruebas manuales, UI Testing, pruebas de regresión, debugging.
 - **Automatización:** <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/71d5502e-dbb2-4e5d-a7df-0ec6c088b8c6" />
-, Pytest.
-- **API Testing:** Postman, JSON.
-- **Herramientas:** JIRA, DevTools, GitHub, Git, Bash, SQL.
+, <img width="79" height="20" alt="image" src="https://github.com/user-attachments/assets/fd6a7cc3-a794-495c-b206-671e25175ba5" /><img width="63" height="20" alt="image" src="https://github.com/user-attachments/assets/f64a6c92-b91a-4082-b5f9-816eecaff0d1" />
+- **API Testing:** <img width="75" height="20" alt="image" src="https://github.com/user-attachments/assets/3b914e34-b127-405f-aeee-113a727e067c" />
+, JSON.
+- **Herramientas:** <img width="53" height="20" alt="image" src="https://github.com/user-attachments/assets/8d6da54e-896e-413c-906f-9ad0373f18ce" />
+, DevTools, GitHub, <img width="43" height="20" alt="image" src="https://github.com/user-attachments/assets/7e1e837b-5118-43d0-84e4-98838feaf9fc" />
+, Bash, <img width="91" height="20" alt="image" src="https://github.com/user-attachments/assets/81b17ca3-a4a1-4141-a54e-4853478c7999" />
+.
 - **Metodologías:** Agile, análisis y documentación de pruebas.
 
 ## 🚀 Proyectos Destacados

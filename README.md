@@ -45,7 +45,7 @@ www.linkedin.com/in/carlos-zabaleta
 
 ---
 *
-📌 **Descripción:** Sistema de alquiler d
+📌 **Descripción:** Sistema de alquiler de domicilio de mercado
 ### 🔹 Urban Glocers (Plataforma web y API para alquiler de supermercados)*
 📌 **Descripción:**  Sistema pedidos de mercado a domicilio con autenticación de usuarios, tarifas de entrega.  
 🛠 **Tecnologías utilizadas:** Postman, API Testing, JIRA, MySQL, Python (en formación).  

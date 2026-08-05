@@ -12,10 +12,9 @@ Para la gestión reporte de errores, utilizo Jira + Xray como herramientas de Te
 
 ## 🚀 Sobre mí
 - 🎓 Formación en **Computación e Informática**.
-- 📚 Actualmente he concluido satisfactoriamente el **bootcamp en Quality Assurance Engineering** de Tripleten LaTam.
-- 💡 Estoy en transición al mundo TI, impulsado por mi interés en la tecnología y la mejora de procesos a través del software.
-- 🧩 Desarrollando habilidades en **automatización de pruebas**, **pruebas API** y **pruebas en bases de datos** y ** busqueda de bugs**.
-- 
+- 💡 enfoque en el mundo TI, impulsado por mi interés en la tecnología y la mejora de procesos a través del software.
+- 🧩 habilidades en **automatización de pruebas**, **pruebas API** y **pruebas en bases de datos** y ** busqueda de bugs**.
+
 
 ## 🌐 Socials:
 www.linkedin.com/in/carlos-zabaleta

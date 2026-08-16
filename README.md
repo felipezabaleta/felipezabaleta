@@ -58,17 +58,17 @@ www.linkedin.com/in/carlos-zabaleta
 ---
 
 *
-📌 **Descripción:** Sistema de alquiler de comidas a domicilio
+📌 **Descripción:** Sistema de pedidos de comidas a domicilio
 ### 🔹 Urban Lunch (Aplicacion web de comidas a domicilio)*
 📌 **Descripción:** Analisis de requisitos de una Aplicacion de pedidos de comidas a domicilio, con reservas en restaurantes y entregas.  
 🛠 **Tecnologías utilizadas:** emulador: Android Studio,JIRA.  
 🔍 **Contribución:** 
 
 - Diseñé y ejecuté 50 test cases logrando detectar 6 defectos.
-
 ✅ Lista de Verificación: 50 test cases cubriendo escenarios límite, negativos y flujos críticos.
 📲 Pruebas en Emulador: 6 defectos de alto impacto en UX documentados en JIRA con pasos de reproducción, severidad y evidencia visual capturada.
----
+
+  
 
 ¡Gracias por visitar mi perfil! 😊
 <!--

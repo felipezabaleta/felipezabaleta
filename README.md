@@ -41,7 +41,7 @@ www.linkedin.com/in/carlos-zabaleta
 - Reporté **38 errores críticos**, optimizando la experiencia del usuario.  
 - Verifiqué la funcionalidad de **métodos de pago** y lógica de reservas.  
 
-🔗 **[Repositorio](https://docs.google.com/spreadsheets/d/1HoDkzGB98kGrhuQhbrQT2ME1SFx4hNi8/edit?usp=sharing&ouid=105758188393227956067&rtpof=true&sd=true)**
+🔗 [Repositorio](https://docs.google.com/spreadsheets/d/1HoDkzGB98kGrhuQhbrQT2ME1SFx4hNi8/edit?usp=sharing&ouid=105758188393227956067&rtpof=true&sd=true)
 
 ---
 *

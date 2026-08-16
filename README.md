@@ -54,7 +54,7 @@ www.linkedin.com/in/carlos-zabaleta
 - Probé **4 endpoints (GET, POST, DELETE)** usando Postman.  
 - Reporté **22 errores documentados** en JIRA con severidad y prioridad.  
 
-🔗 **[Repositorio](C:\Users\felipe zabaleta\Downloads\Proyecto para el 4.º Sprint_ carlos zabaleta grupo 52'.xlsx))**
+🔗[Repositorio] (C:\Users\felipe zabaleta\Downloads\Proyecto para el 4.º Sprint_ carlos zabaleta grupo 52'.xlsx))
 ---
 
 *

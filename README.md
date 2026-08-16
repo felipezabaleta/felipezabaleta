@@ -33,11 +33,11 @@ www.linkedin.com/in/carlos-zabaleta
 
 ## 🚀 Proyectos Destacados
 
-### 🔹 Urban Routes *(Aplicación web para reserva de taxis)*
+### 🔹 Urban Routes- PRUEBAS MANUALES *(Aplicación web para reserva de taxis)*
 📌 **Descripción:** Plataforma que permite a los usuarios reservar taxis en tiempo real, gestionar métodos de pago y revisar el historial de viajes.  
 🛠 **Tecnologías utilizadas:** Pruebas manuales, Chrome DevTools, JIRA, SQL.  
 🔍 **Contribución:**  
-- Ejecuté **26 casos de prueba** en Chrome y Firefox, validando estabilidad del sistema.  
+- Ejecuté **63 casos de prueba** en Chrome y Firefox, validando estabilidad del sistema.  
 - Reporté **38 errores críticos**, optimizando la experiencia del usuario.  
 - Verifiqué la funcionalidad de **métodos de pago** y lógica de reservas.
   
@@ -96,6 +96,25 @@ contar el número de automóviles de cada compañía. Ordena los valores en orde
 -Convertí la lista de comprobación manual del campo 'name' en una suite automatizada con Python y Pytest, reduciendo el tiempo de ejecución y eliminando el envío manual de requests desde Postman.
 - 3 tipos de escenario automatizados: Válidos, inválidos y de borde sobre el endpoint POST de creación de kits — garantizando 100% de reproducibilidad.
 - Arquitectura Modular: Suite con configuración en data.py, funciones de prueba independientes y repositorio entregado en GitHub con historial organizado.
+
+  repositorio : https://github.com/felipezabaleta/qa-project-Urban-Grocers-app-es.git
+
+
+  ---
+
+
+*
+### 🔹 Urban ROUTES– Automation (Plataforma web y API para alquiler de autos y taxi)*
+📌 **Descripción:** Plataforma que permite a los usuarios reservar taxis en tiempo real, gestionar métodos de pago y revisar el historial de viajes.  
+🛠 **Tecnologías utilizadas:** Pruebas AUTOMATIZADAS, Selenium, JIRA, SQL.  
+🔍 **Contribución:**  
+- automatice pruebas para comprobar la funcionalidad de Urban Routes, las pruebas cubren el proceso completo de pedir un taxi,mediante la implementación del patrón de diseño Page Object Model (POM).
+-  63 casos de prueba alcanzando el 100% de aprobación en Chrome y Firefox antes del lanzamiento.
+
+
+
+
+  
 
   
 

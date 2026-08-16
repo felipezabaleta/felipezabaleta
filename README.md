@@ -39,34 +39,66 @@ www.linkedin.com/in/carlos-zabaleta
 🔍 **Contribución:**  
 - Ejecuté **26 casos de prueba** en Chrome y Firefox, validando estabilidad del sistema.  
 - Reporté **38 errores críticos**, optimizando la experiencia del usuario.  
-- Verifiqué la funcionalidad de **métodos de pago** y lógica de reservas.  
-
+- Verifiqué la funcionalidad de **métodos de pago** y lógica de reservas.
+  
 🔗 [Repositorio] (https://docs.google.com/spreadsheets/d/1HoDkzGB98kGrhuQhbrQT2ME1SFx4hNi8/edit?usp=sharing&ouid=105758188393227956067&rtpof=true&sd=true)
 
 ---
 *
-📌 **Descripción:** Sistema de alquiler de domicilio de mercado
 ### 🔹 Urban Glocers (Plataforma web y API para alquiler de supermercados)*
 📌 **Descripción:**  Sistema pedidos de mercado a domicilio con autenticación de usuarios, tarifas de entrega.  
 🛠 **Tecnologías utilizadas:** Postman, API Testing, JIRA, MySQL, Python.  
 🔍 **Contribución:**  
 - Diseñé y ejecuté **54 casos de prueba** para validación de API.  
-- Probé **4 endpoints (GET, POST, DELETE)** usando Postman.  
-- Reporté **22 errores documentados** en JIRA con severidad y prioridad.  
+- Probé **3 endpoints (GET, POST, DELETE)** usando Postman.  
+- Reporté **22 errores documentados** en JIRA con severidad y prioridad.
+- Cobertura completa de respuestas 200 OK, errores 400 y validaciones de estructura de datos antes del despliegue.
 
 🔗[Repositorio] (C:\Users\felipe zabaleta\Downloads\Proyecto para el 4.º Sprint_ carlos zabaleta grupo 52'.xlsx))
 ---
 
 *
-📌 **Descripción:** Sistema de pedidos de comidas a domicilio
 ### 🔹 Urban Lunch (Aplicacion web de comidas a domicilio)*
 📌 **Descripción:** Analisis de requisitos de una Aplicacion de pedidos de comidas a domicilio, con reservas en restaurantes y entregas.  
 🛠 **Tecnologías utilizadas:** emulador: Android Studio,JIRA.  
 🔍 **Contribución:** 
-
 - Diseñé y ejecuté 50 test cases logrando detectar 6 defectos.
 ✅ Lista de Verificación: 50 test cases cubriendo escenarios límite, negativos y flujos críticos.
 📲 Pruebas en Emulador: 6 defectos de alto impacto en UX documentados en JIRA con pasos de reproducción, severidad y evidencia visual capturada.
+
+---
+
+### 🔹 Bases de datos de una aplicacion de taxis *
+📌 **Descripción:** se utiliza la consola para realizar consultas en la base de datos.  
+🛠 **Tecnologías utilizadas:**  ✔️ Uso de comandos de consola (grep), Consultas SQL,Diagramas ER,JOINs.  
+🔍 **Contribución:**  
+
+🗄️ Base de datos (SQL)
+-la empresa de taxis recibio quejas de no haber vehiculos suficientes, se realizo una busqueda de la cantidad de vehiculos disponibles,
+contar el número de automóviles de cada compañía. Ordena los valores en orden descendente y devolver las companias con menos de 100 automoviles.
+-la compañía de taxis comienza a reportar que la ganancia que reciben no coincide con los datos que proporciona la aplicación, asi que se realizo  la selección del número de viajes de cada compañía de taxi para dias especificos, se devolvio un campo y la cantidad de viajes y organizarlos de forma descendente y resolver el error.
+-La aplicación de taxis calcula el coeficiente del costo del viaje dependiendo del clima,El equipo tiene una hipótesis de que hay un error en el cálculo del coeficiente. el equipo necesita una selección de datos: el área de desarrollo puede comparar el coeficiente con los datos en los logs y corregir el bug. asi que realice una seleccion de datos de las condiciones del clima para cada hora y dividi las horas en dos grupos "bueno" y "malo", devolviendo  La tabla resultante con los datos para el periodo especificado, resolviendo el problema.
+-averiguae qué solicitudes han venido de una dirección IP y averiguar que solicitudes fueron enviadas y reportar el comando de busqueda y el string adecuado.
+-se reportaron errores y reporte los logs que se registraron en un periodo de tiempo determinado en un archivo independiente.
+-se creo un directorio 
+-Consultas correctas y coherente con lo solicitado.
+-tareas Bien estructurada, con resultados claros.
+-Lógica adecuada y alineada con el objetivo del ejercicio.
+-Excelente aplicación de JOINs, filtros y agrupaciones.
+
+---
+
+*
+### 🔹 Urban Glocers– Automation Framework (Plataforma web y API para alquiler de supermercados)*
+📌 **Descripción:**  Sistema pedidos de mercado a domicilio con autenticación de usuarios, tarifas de entrega.  
+🛠 **Tecnologías utilizadas:** Postman, API Testing, JIRA, MySQL, Python.  
+🔍 **Contribución:**  
+-Convertí la lista de comprobación manual del campo 'name' en una suite automatizada con Python y Pytest, reduciendo el tiempo de ejecución y eliminando el envío manual de requests desde Postman.
+- 3 tipos de escenario automatizados: Válidos, inválidos y de borde sobre el endpoint POST de creación de kits — garantizando 100% de reproducibilidad.
+- Arquitectura Modular: Suite con configuración en data.py, funciones de prueba independientes y repositorio entregado en GitHub con historial organizado.
+
+  
+
 
   
 

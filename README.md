@@ -48,14 +48,27 @@ www.linkedin.com/in/carlos-zabaleta
 📌 **Descripción:** Sistema de alquiler de domicilio de mercado
 ### 🔹 Urban Glocers (Plataforma web y API para alquiler de supermercados)*
 📌 **Descripción:**  Sistema pedidos de mercado a domicilio con autenticación de usuarios, tarifas de entrega.  
-🛠 **Tecnologías utilizadas:** Postman, API Testing, JIRA, MySQL, Python (en formación).  
+🛠 **Tecnologías utilizadas:** Postman, API Testing, JIRA, MySQL, Python.  
 🔍 **Contribución:**  
 - Diseñé y ejecuté **54 casos de prueba** para validación de API.  
 - Probé **4 endpoints (GET, POST, DELETE)** usando Postman.  
 - Reporté **22 errores documentados** en JIRA con severidad y prioridad.  
 
 🔗 **[Repositorio](C:\Users\felipe zabaleta\Downloads\Proyecto para el 4.º Sprint_ carlos zabaleta grupo 52'.xlsx))**
+---
 
+*
+📌 **Descripción:** Sistema de alquiler de comidas a domicilio
+### 🔹 Urban Lunch (Aplicacion web de comidas a domicilio)*
+📌 **Descripción:** Analisis de requisitos de una Aplicacion de pedidos de comidas a domicilio, con reservas en restaurantes y entregas.  
+🛠 **Tecnologías utilizadas:** emulador: Android Studio,JIRA.  
+🔍 **Contribución:** 
+
+- Diseñé y ejecuté 50 test cases logrando detectar 6 defectos.
+
+✅ Lista de Verificación: 50 test cases cubriendo escenarios límite, negativos y flujos críticos.
+📲 Pruebas en Emulador: 6 defectos de alto impacto en UX documentados en JIRA con pasos de reproducción, severidad y evidencia visual capturada.
+---
 
 ¡Gracias por visitar mi perfil! 😊
 <!--

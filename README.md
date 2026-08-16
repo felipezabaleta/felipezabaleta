@@ -111,6 +111,8 @@ contar el número de automóviles de cada compañía. Ordena los valores en orde
 - automatice pruebas para comprobar la funcionalidad de Urban Routes, las pruebas cubren el proceso completo de pedir un taxi,mediante la implementación del patrón de diseño Page Object Model (POM).
 -  63 casos de prueba alcanzando el 100% de aprobación en Chrome y Firefox antes del lanzamiento.
 
+ repositorio:  https://github.com/felipezabaleta/qa-project-Urban-Routes-es.git
+
 
 
 
